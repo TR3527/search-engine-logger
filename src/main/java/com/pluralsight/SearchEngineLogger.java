@@ -31,6 +31,7 @@ public class SearchEngineLogger {
         logRecording("exit", "");
 
 
+        read.close();
 
     }
 
@@ -67,5 +68,8 @@ public class SearchEngineLogger {
 
 
 
+
+
     }
+
 }
